@@ -39,7 +39,7 @@ export const siteConfig: SiteConfig = {
 	],
 };
 
-export const navBarConfig: NavBarConfig = {
+export const navBarConfig: NavBarConfig = { //导航栏超链接
 	links: [
 		LinkPreset.Home,
 		LinkPreset.Archive,
@@ -52,7 +52,7 @@ export const navBarConfig: NavBarConfig = {
 	],
 };
 
-export const profileConfig: ProfileConfig = {
+export const profileConfig: ProfileConfig = { //用户头像下超链接
 	avatar: "assets/images/demo-avatar.png", // 相对于/src目录。若以'/'开头则相对于/public目录
 	name: "SaSOvO",
 	bio: "来，吃点好的！",
