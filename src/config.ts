@@ -57,13 +57,9 @@ export const profileConfig: ProfileConfig = {
 	name: "SaSOvO",
 	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 	links: [
-		{
-			name: "Email",
-			icon: "fa6-brands:envelope", // 图标代码参考：https://icones.js.org/
-			// 如果未包含相应图标集，需要手动安装：
-			// `pnpm add @iconify-json/<图标集名称>`
-			url: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QjEjMS00LQIzM2whLS8",
-		},
+		// 图标代码参考：https://icones.js.org/
+		// 如果未包含相应图标集，需要手动安装：
+		// `pnpm add @iconify-json/<图标集名称>`
 		// {
 		// 	name: "Steam",
 		// 	icon: "fa6-brands:steam",
@@ -73,6 +69,11 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/pasovo",
+		},
+		{
+			name: "Email",
+			icon: "fa6-solid:envelope", 
+			url: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QjEjMS00LQIzM2whLS8",
 		},
 	],
 };
