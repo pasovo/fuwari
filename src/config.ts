@@ -59,16 +59,16 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Email",
-			icon: "fa6-brands:mail", // 图标代码参考：https://icones.js.org/
+			icon: "fa6-brands:envelope", // 图标代码参考：https://icones.js.org/
 			// 如果未包含相应图标集，需要手动安装：
 			// `pnpm add @iconify-json/<图标集名称>`
 			url: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=QjEjMS00LQIzM2whLS8",
 		},
-		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},
+		// {
+		// 	name: "Steam",
+		// 	icon: "fa6-brands:steam",
+		// 	url: "https://store.steampowered.com",
+		// },
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
