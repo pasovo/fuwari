@@ -1,6 +1,6 @@
 {
     "name": "sasovo-fuwari",
-    "compatibility_data": "2025.7.5",
+    "compatibility_data": "2025.7.6",
     "assets": {
         "directory": "./dist"
     }
