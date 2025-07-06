@@ -27,7 +27,7 @@ export const siteConfig: SiteConfig = {
 	},
 	toc: {
 		enable: true, // 在文章右侧显示目录
-		depth: 2, // 目录中显示的最大标题层级，取值范围1-3
+		depth: 3, // 目录中显示的最大标题层级，取值范围1-3
 	},
 	favicon: [
 		// 留空数组则使用默认favicon
@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // 相对于/src目录。若以'/'开头则相对于/public目录
 	name: "SaSOvO",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	bio: "来，吃点好的！",
 	links: [
 		// 图标代码参考：https://icones.js.org/
 		// 如果未包含相应图标集，需要手动安装：
