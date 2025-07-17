@@ -1,9 +1,9 @@
 ---
-title: 使用cloudflare自建免费图床
+title: 使用cloudflare，tg自建免费图床
 published: 2025-07-10
-description: ''
+description: '一个无限容量的免费图床'
 image: ''
-tags: [教程，图床]
+tags: [教程][图床]
 category: ''
 draft: false 
 lang: ''
@@ -63,5 +63,5 @@ Your chat_id is: 123456789
 点击 "保存并部署"
 
 1. 等待首次部署完成（约 2-3 分钟）
-2. #### 新建一个kv数据库并绑定 （重要！不然你访问域名会报错密码错误）
+2. #### 新建一个kv数据库并绑定 （重要！不然你访问会报错密码错误）
 3. 再次部署，使用！
