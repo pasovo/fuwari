@@ -3,8 +3,8 @@ title: 使用cloudflare，tg自建免费图床
 published: 2025-07-10
 description: '一个无限容量的免费图床'
 image: ''
-tags: [图床]
-category: ''
+tags: [图床,cloudflare]
+category: '教程'
 draft: false 
 lang: ''
 ---
@@ -20,7 +20,7 @@ lang: ''
 3. 按照提示设置 bot 的名称和用户名。
 4. 创建成功后，BotFather 会给你一个 Bot Token，例如：
 
-```123456789:ABCDEF_GHIJKL_MNOPQR_STUVWX
+```
 123456789:ABCDEF_GHIJKL_MNOPQR_STUVWX
 ```
 
