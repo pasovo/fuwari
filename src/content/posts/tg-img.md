@@ -3,7 +3,7 @@ title: 使用cloudflare，tg自建免费图床
 published: 2025-07-10
 description: '一个无限容量的免费图床'
 image: ''
-tags: [教程][图床]
+tags: [教程，图床]
 category: ''
 draft: false 
 lang: ''
