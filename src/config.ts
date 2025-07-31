@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-  title: "sasovo",
+  title: "Rico",
   subtitle: "来，吃点好的！",
   lang: "zh_CN", // 支持语言：'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
@@ -56,7 +56,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   //用户头像下超链接
   avatar: "assets/images/demo-avatar.png", // 相对于/src目录。若以'/'开头则相对于/public目录
-  name: "Sasovo",
+  name: "Rico",
   bio: "来，吃点好的！",
   links: [
     // 图标代码参考：https://icones.js.org/
