@@ -11,14 +11,14 @@
             "id": "84219f669de10240",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "src/content/.obsidian/workspace.json",
-                "bFile": "src/content/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "posts/notepad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "notepad"
             }
           }
         ]
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "posts/notepad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "notepad 的大纲"
             }
           },
           {
@@ -196,10 +197,10 @@
   },
   "active": "84219f669de10240",
   "lastOpenFiles": [
+    "spec/about.md",
     "posts/tg-img.md",
     "posts/notepad.md",
     "assets/notepad/file-20251116170032388.png",
-    "assets/notepad",
-    "spec/about.md"
+    "assets/notepad"
   ]
 }

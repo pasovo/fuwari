@@ -30,4 +30,4 @@ yarn.lock
 .idea
 *.iml
 
-/src/content/.obsidian/workspace.json
+src/content/.obsidian/workspace.json
