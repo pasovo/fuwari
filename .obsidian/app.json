@@ -2,5 +2,7 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "src/content/posts",
-  "attachmentFolderPath": "附件"
+  "attachmentFolderPath": "src/assets",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
 }
