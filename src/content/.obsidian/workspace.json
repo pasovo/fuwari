@@ -11,14 +11,14 @@
             "id": "84219f669de10240",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "posts/tg-img.md",
-                "mode": "source",
-                "source": false
+                "aFile": "src/content/.obsidian/workspace.json",
+                "bFile": "src/content/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "tg-img"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -154,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/tg-img.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "tg-img 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -195,12 +194,12 @@
       "obsidian-git:打开Git源代码管理": false
     }
   },
-  "active": "e049a90050683619",
+  "active": "84219f669de10240",
   "lastOpenFiles": [
+    "posts/tg-img.md",
     "posts/notepad.md",
     "assets/notepad/file-20251116170032388.png",
     "assets/notepad",
-    "posts/tg-img.md",
     "spec/about.md"
   ]
 }
