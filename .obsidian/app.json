@@ -4,5 +4,6 @@
   "newFileFolderPath": "src/content/posts",
   "attachmentFolderPath": "src/assets",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
