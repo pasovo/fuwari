@@ -17,4 +17,3 @@ lang: ''
 
 
 ---
-![](src/assets/notepad/file-20251116152945507.png)
