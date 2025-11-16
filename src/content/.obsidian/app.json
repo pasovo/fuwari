@@ -4,5 +4,7 @@
   "attachmentFolderPath": "assets",
   "newFileFolderPath": "posts",
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "showLineNumber": true,
+  "readableLineLength": false
 }
